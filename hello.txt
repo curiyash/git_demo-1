@@ -1,3 +1,2 @@
 hello, this is in temp
 42 is the answer
-This is line added by mistake.
